@@ -6,11 +6,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "nodemon index.js"
     
 
+=======
+    "start": "nodemon index"
+>>>>>>> dee4957999228ad86c97a470b5f855c2f42c2dfb
   },
   "keywords": [],
   "author": "",
