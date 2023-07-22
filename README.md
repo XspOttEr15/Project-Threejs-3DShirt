@@ -1,8 +1,8 @@
 # Project THREE.JS <br>
 
 
+https://github.com/XspOttEr15/project_threejs_noai/assets/102534597/2675f2cb-b63c-491c-b8f3-49ae29b4cab7
 
-https://github.com/XspOttEr15/project_threejs_noai/assets/102534597/d2c80c11-a026-4e26-af08-50270daf31c1
 
 <p> 🤖🤖 Watch Full Video https://youtu.be/fP6wj7OLUes 🤖🤖 </p>
 <hr>
