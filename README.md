@@ -1,2 +1,7 @@
 # project_threejs_noai <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z5mBm35Dhfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+https://github.com/XspOttEr15/project_threejs_noai/assets/102534597/d2c80c11-a026-4e26-af08-50270daf31c1
+
+<p> Watch Full https://www.youtube.com/watch?v=z5mBm35Dhfg </p>
