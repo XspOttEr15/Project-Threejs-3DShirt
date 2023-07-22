@@ -1,4 +1,4 @@
-# Project THREE.JS <br>
+# Project-Threejs-3DShirt <br>
 
 
 https://github.com/XspOttEr15/project_threejs_noai/assets/102534597/2675f2cb-b63c-491c-b8f3-49ae29b4cab7
