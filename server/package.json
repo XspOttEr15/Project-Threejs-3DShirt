@@ -1,11 +1,16 @@
 {
+  "homepage": "https://XspOttEr15.github.io/project_threejs_noai",
   "name": "server",
   "version": "1.0.0",
   "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "nodemon index.js"
+    
+
   },
   "keywords": [],
   "author": "",
